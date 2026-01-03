@@ -8,7 +8,7 @@ from htmlnode import HTMLNode
 from extractor import extract_title
 
 SOURCE_DIR = "./static"
-DEST_DIR = "./public"
+DEST_DIR = "./docs"
 
 FROM_PATH = "./content/"
 TEMPALTE_PATH = "./template.html"
